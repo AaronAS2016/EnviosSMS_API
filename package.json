@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "name": "test",
+    "author": "aaronsaban98@gmail.com",
+    "devDependencies": {            
+        "babel-cli": "*",
+        "babel-preset-es2015":"*"
+    }
+}         
